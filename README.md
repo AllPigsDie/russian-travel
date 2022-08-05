@@ -21,7 +21,8 @@ GridLayout
 Работа с макетом Figma
 Медиазапросы
 
-
+Github Pages: 
+https://allpigsdie.github.io/russian-travel/
 
 
 
