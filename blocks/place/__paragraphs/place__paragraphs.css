@@ -23,7 +23,6 @@
     .place__paragraphs {
         font-size: 16px;
         max-width: 352px;
-        row-gap: 25px;
     }
 }
 
