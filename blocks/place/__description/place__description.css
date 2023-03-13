@@ -24,5 +24,6 @@
     .place__description {
         flex-direction: column;
         max-width: 320px;
+        row-gap: 32px;
     }
 }
